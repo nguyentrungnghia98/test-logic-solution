@@ -35,7 +35,7 @@ Explain:
 ![alt](./explain.png)
 
 
-Old solution (wrong):
+Old solution (make it better):
 ```
 function swap(arr, a,b) {
   const tmp = arr[a];

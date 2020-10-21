@@ -31,6 +31,8 @@ const k = 3;
 rol(arr, k);
 console.log(arr);
 ```
+Explain:
+![alt](./explain.png)
 
 
 Old solution (wrong):
